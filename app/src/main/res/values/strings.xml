@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DemoTimerNTimerTask</string>
+    <string name="btn_start_timer">Start Timer</string>
+    <string name="btn_stop_timer">Stop Timer</string>
+    <string name="tv_msg">Timer And TimerTask System</string>
+</resources>
