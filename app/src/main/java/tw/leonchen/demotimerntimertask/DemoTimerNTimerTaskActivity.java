@@ -56,6 +56,7 @@ public class DemoTimerNTimerTaskActivity extends AppCompatActivity {
 
         @Override
         public void run() {
+            //傳送代號為0
             handler.sendEmptyMessage(0);
         }
     }
